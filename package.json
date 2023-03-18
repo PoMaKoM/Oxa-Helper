@@ -21,7 +21,7 @@
 		"telegram-format": "^2.1.0"
 	},
 	"devDependencies": {
-		"@grammyjs/types": "^2.3.1",
+		"@grammyjs/types": "^3.0.3",
 		"@sindresorhus/tsconfig": "^2.0.0",
 		"@types/node": "^16.11.6",
 		"ava": "^4.0.0",
